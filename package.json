@@ -1,0 +1,29 @@
+{
+  "name": "dev-null-x-bot",
+  "version": "1.0.0",
+  "description": "@Dev_Null_X - Telegram x WhatsApp Ultimate Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "telegram",
+    "whatsapp",
+    "bot",
+    "dev_null_x"
+  ],
+  "author": "Dev_Null_X",
+  "license": "ISC",
+  "dependencies": {
+    "@whiskeysockets/baileys": "github:Dev-Null-X/baileys",
+    "node-telegram-bot-api": "^0.66.0",
+    "pino": "^8.19.0",
+    "qrcode-terminal": "^0.12.0",
+    "node-cache": "^5.1.2",
+    "axios": "^1.6.7",
+    "chalk": "^4.1.2",
+    "figlet": "^1.7.0",
+    "moment-timezone": "^0.5.45"
+  }
+}
