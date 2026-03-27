@@ -9,7 +9,7 @@ module.exports = {
   owner: "Dev_Null_X",
   
   // 🔑 BOT CREDENTIALS
-  telegramToken: "8448541586:AAFUlzMAb7cDC1w-6hoeGwMGFGYNuK4LBvc", // Apna Telegram Bot Token daalein
+  telegramToken: "8448541vc", // Apna Telegram Bot Token daalein
   telegramOwner: 6342594125, // Tera Telegram Owner ID
   whatsappOwner: "91XXXXXXXXXX@s.whatsapp.net", // Apna WhatsApp Number daalein (Bina + ke)
   
