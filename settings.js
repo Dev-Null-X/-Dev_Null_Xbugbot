@@ -6,22 +6,22 @@
 module.exports = {
   // 🚀 BRANDING SETTINGS
   botName: "Dev_Null_X_Bot",
-  owner: "Dev_Null_X",
+  owner: "GABRIELMODS123456",
   
   // 🔑 BOT CREDENTIALS
-  telegramToken: "8448541vc", // Apna Telegram Bot Token daalein
-  telegramOwner: 6342594125, // Tera Telegram Owner ID
-  whatsappOwner: "91XXXXXXXXXX@s.whatsapp.net", // Apna WhatsApp Number daalein (Bina + ke)
+  telegramToken: "8729657996:AAH10MVJq0073zeRmeu9cXysRohnO0etyKc", // Apna Telegram Bot Token daalein
+  telegramOwner: 8198249228, // Tera Telegram Owner ID
+  whatsappOwner: "584245173624@s.whatsapp.net", // Apna WhatsApp Number daalein (Bina + ke)
   
   // 🛡️ FORCE SUBSCRIBE SETTINGS (Membership Check)
   // Dhyan dein: Bot ko in dono groups/channels mein Admin banana zaroori hai!
   CHANNEL_ID: "-1003320989009", // Apne Channel ka Chat ID daalein (Starts with -100)
-  CHANNEL_LINK: "https://t.me/Dev_Null_X_NODE_JS", // Channel ka link
+  CHANNEL_LINK: "@GABRIELMODS123", // Channel ka link
   
-  GROUP_ID: "-1003320989009", // Apne Group ka Chat ID daalein (Starts with -100)
-  GROUP_LINK: "https://t.me/Dev_Null_X_NODE_JS", // Group ka link
+  GROUP_ID: "8198249228", // Apne Group ka Chat ID daalein (Starts with -100)
+  GROUP_LINK: "https://t.me/GABRIELMODS123", // Group ka link
   
-  YOUTUBE_LINK: "https://www.youtube.com/@Dev_Null_X",
+  YOUTUBE_LINK: "https://www.youtube.com/@Gabrielmods123",
 
   // ⚙️ SYSTEM SETTINGS
   prefix: /^[°•π÷×¶∆£¢€¥®™+✓_=|~!?@#$%^&.©^]/i,
